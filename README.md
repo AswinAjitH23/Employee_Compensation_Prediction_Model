@@ -1,6 +1,6 @@
 # Employee_Compensation_Prediction_Model
 Capstone Project developed during Data science and Machine learning program. This showcases my knowledge and skill during the program.
-- Problem statement :
+- Project Objective :
 Project objective is to develop a compensation prediction model using regression algorithms and find out which regression model fits well for the dataset.
 - Data Collection :
 Dataset Source - https://data.world/data-society/employee-compensation-in-sf (Note: First login to dataworld to access dataset)
