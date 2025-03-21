@@ -4,7 +4,7 @@ Capstone Project developed during Data science and Machine learning program. Thi
 Project objective is to develop a compensation prediction model using regression algorithms and find out which regression model fits well for the dataset.
 - Data Collection :
 Dataset Source - https://data.world/data-society/employee-compensation-in-sf (Note: First login to dataworld to access dataset)
-The data consists of 22 column and 291825 rows.
+The data consists of 22 column and 291825 rows and having compensation paid between during 2013-2016.
 - Data Cleaning :
 Removed unwanted columns, handled missing values, outliers
 - Data Analysis :
